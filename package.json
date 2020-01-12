@@ -1,0 +1,11 @@
+{
+  "name": "node-crawler-nightmare",
+  "version": "1.0.0",
+  "description": "Scrapping using NodeJS, Nightmare and Cheerio",
+  "author": "Mayk Brito <mayk@rocketseat.com.br>",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nightmare": "^3.0.1"
+  }
+}
